@@ -1,4 +1,4 @@
-# hackathon2021
-Hackathon event 2021 (nathan, alex, duncan, wei)
+#HACKATHON2021
+hackathon2021(alex miao, nathan lam, duncan yu, wei lu)
 
-#test!!!
+This year of hackathon, we chose to make a website.
